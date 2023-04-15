@@ -1,0 +1,3 @@
+# Weather_App
+This is web application created using HTML, CSS, and JavaScript and Node.js . The application fetches weather data from the OpenWeatherMap API and displays it in a user-friendly format. The user interface is designed using HTML and CSS, and JavaScript is used to make the application interactive. Node.js is used to create a server that handles incoming requests and sends back appropriate responses.The app is also designed to be responsive and optimized for different screen sizes. It allows the user to view the current temperature, temperature range, location, country, and weather status. Overall, the Weather-App is a simple yet powerful tool that provides users with up-to-date weather information.
+
